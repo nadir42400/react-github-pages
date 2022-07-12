@@ -1,0 +1,93 @@
+html{
+    scroll-behavior: smooth;
+}
+* {
+    margin: 0px;
+    padding: 0px;
+    border: 0px;
+}
+
+#Head{
+    display: inline-flex;
+    justify-content: space-between;
+    align-items: flex-end;
+    margin-top: 200px;
+    width: 80%;
+}
+
+#sideBare {
+    margin-left: 5%;
+    height: 100%;
+}
+
+.logoSideBare {
+    display: flex;
+    margin-bottom: 12px;
+    width: 35px;
+    padding: 5px;
+}
+
+.logoSideBare:hover {
+    border: 1px white solid;
+    border-radius: 10px;
+    transition: border 1s;
+}
+
+#mainHead {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 20px 0px;
+    width: 75%;
+    height: 100%;
+}
+
+.TxtMain {
+    color: white;
+    margin: 3px 0px;
+}
+
+#divButton {
+    display: flex;
+    width: 300px;
+    justify-content: space-evenly;
+    margin: 40px 0px;
+}
+
+.ButtonMain {
+    color: white;
+    border: white solid 1px;
+    border-radius: 5px;
+    padding: 7.5px;
+}
+
+#Talk {
+    text-decoration: none;
+    background: rgb(0, 200, 255);
+}
+
+#Talk:hover {
+    background: none;
+    transition: background 0.5s;
+}
+
+#Talk:active {
+    border: black 1px solid;
+}
+
+#DL {
+    text-decoration: none;
+}
+
+#DL:hover {
+    background: rgb(0, 200, 255);
+    transition: background 0.5s;
+}
+
+#DL:active {
+    border: black 1px solid;
+}
+
+#Picture {
+    height: 150px;
+}

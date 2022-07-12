@@ -1,0 +1,103 @@
+html{
+    scroll-behavior: smooth;
+}
+
+* {
+    margin: 0px;
+    padding: 0px;
+    border: 0px;
+}
+
+#Contact {
+    margin-top: 300px;
+    margin-bottom: 100px;
+}
+
+@media (max-width: 900px) {
+    #Contact {
+      margin-top: 200px;
+    }
+}
+
+#titleDiv {
+    display: flex;
+    flex-direction: column;
+    color: white;
+    align-items: center;
+    margin-bottom: 50px;
+}
+
+#main {
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content: space-around;
+    align-items: center;
+    width: 100%;
+}
+
+#Divform {
+    display: flex;
+    flex-direction: column;
+    background: #00368d;
+    border: 1px solid white;
+    border-radius: 20px;
+    padding: 20px;
+}
+
+.inputContact {
+    margin-bottom: 20px;
+    border-radius: 20px;
+}
+
+#inputEmailContact {
+    padding: 20px 100px;
+    margin-top: 10px;
+    text-align: center;
+}
+
+#inputObjectContact {
+    text-align: center;
+    padding: 15px 100px;
+}
+
+#inputMsgContact {
+    padding: 20px 0px 50px 20px;
+}
+
+#inputSubmitContact {
+    border: black 1px solid;
+    margin-top: 30px;
+    padding: 10px;
+    cursor: pointer;
+}
+
+#inputSubmitContact:hover {
+    background: rgb(0, 200, 255);
+    color: white;
+    border: white 1px solid;
+    transition: background 0.5s;
+}
+
+#inputSubmitContact:active {
+    background: black;
+}
+
+#DivContacts {
+    border-radius: 20px;
+}
+
+.DivContact {
+    display: flex;
+    flex-direction: column;
+    background: #00368d;
+    border-radius: 20px;
+    align-items: center;
+    color: white;
+    padding: 20px;
+    margin: 20px;
+}
+
+#ImgEmailContact, #ImgLinkedinContact, #ImgPhoneContact {
+    width: 30px;
+    padding: 10px;
+}

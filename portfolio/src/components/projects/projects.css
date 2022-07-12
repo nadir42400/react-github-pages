@@ -1,0 +1,93 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    border: 0px;
+}
+
+#Projects {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.presentationComponent {
+    margin-top: 200px;
+    color: white;
+}
+
+#titleProject {
+    margin-bottom: 80px;
+    color: white;
+}
+
+.imgProject {
+    margin: 15px;
+    height: 150px;
+    border-radius: 20px;
+}
+
+#imgPlus {
+    padding: 60px 58px;
+}
+
+.projectName {
+    color: white;
+    margin: 15px 10px;
+}
+
+.buttonOfProject {
+    color: rgb(0, 200, 255);
+    border: rgb(0, 200, 255) 1px solid;
+    border-radius: 6px;
+    padding: 5px 15px;
+    text-decoration: none;
+    margin-bottom: 20px;
+}
+
+.buttonOfProject:hover {
+    background: rgb(0, 200, 255);
+    border: white 1px solid;
+    color: white;
+    transition: color,border,background 0.5s;
+}
+
+.buttonOfProject:active {
+    background: #000;
+}
+
+.projectContainer {
+    display: flex;
+    flex-direction: column;
+    background: #00368d;
+    border-radius: 20px;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 30px;
+}
+
+#DivPuissance4 {
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.firstDiv {
+    margin-right: 10%;
+    margin-bottom: 5%;
+}
+
+#mainProject {
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    width: 100%;
+}
+
+#secondLineContainer {
+    display: flex;
+    width: 100%;
+    margin-top: 40px;
+}
+
+#plus {
+    margin-left: 13.4%;
+}

@@ -1,0 +1,101 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    border: 0px;
+}
+
+#About {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 300px;
+}
+
+@media (max-width: 900px) {
+
+    #About {
+      display: none;
+    }
+}
+
+#h2About {
+    margin-top: 50px;
+    color: white;
+}
+
+#mainAbout {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    width: 100%;
+    margin-top: 50px;
+}
+
+#contente {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    width: 700px;
+    border: rgb(0, 200, 255) 3px solid;
+    border-radius: 20px;
+    padding: 0px 90px;
+    background: rgba(255, 255, 255, .3);
+    backdrop-filter: blur(10px);
+    -webkit-backdrop-filter: blur(10px);
+    -moz-backdrop-filter: blur(10px);
+}
+
+#ImgMe {
+    height: 300px;
+    padding: 50px 0px;
+    transition: transform 1s;
+}
+
+#ImgMe:hover {
+    transform: scale(1.1) rotate(10deg);
+}
+
+#divArticle {
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    margin: 20px 0px;
+}
+
+article {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 15px;
+    background: rgb(0, 54, 141);
+    border-radius: 10px;
+    height: 140px;
+    width: 180px;
+}
+
+article:hover {
+    background: rgb(0, 45, 141);
+}
+
+.IconArticle {
+    width: 50px;
+    margin-bottom: 15px;
+}
+
+.TXTarticle {
+    margin: 12px 0px;
+    color: white;
+}
+
+#ArticleLanguage {
+    font-size: small;
+}
+
+#ArticleHobby {
+    font-size: smaller;
+}
+
+#TXTmain {
+    margin-top: 50px;
+    color: white;
+}

@@ -1,0 +1,45 @@
+body {
+  background: rgb(0, 33, 77);
+}
+
+body::-webkit-scrollbar {
+  width: 10px;
+}
+
+body::-webkit-scrollbar-track {
+  background: rgb(0, 33, 77);
+}
+
+body::-webkit-scrollbar-thumb {
+  background: whitesmoke;
+  border-radius: 10px;
+}
+
+html{
+  scroll-behavior: smooth;
+}
+
+@media (max-width: 1400px) {
+  #ImgMe {
+    display: none;
+  }
+}
+
+@media (max-width: 1300px) {
+  #LangagesMain {
+    flex-direction: column;
+    align-items: center;
+  }
+
+  #plus {
+    display: none;
+  }
+}
+
+@media (max-width: 900px) {
+
+  #DivPictureContact {
+    display: none;
+  }
+}
+
