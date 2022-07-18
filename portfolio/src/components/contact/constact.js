@@ -21,7 +21,7 @@ export default function Contact () {
                     <input type="text" placeholder="Object" className="inputContact" id="inputObjectContact"></input>
                     <textarea placeholder="message..." className="inputContact" id="inputMsgContact"></textarea>
 
-                    <input type="submit" id="inputSubmitContact" className="inputContact"></input>
+                    <input type="submit" id="inputSubmitContact" className="inputContact" placeholder="send"></input>
                 </div>
 
                 <div id="DivContacts">

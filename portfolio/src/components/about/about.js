@@ -34,9 +34,7 @@ export default function About () {
                                 <p className="TXTarticle" id="ArticleHobby">Video Game, Sport, skating...</p>
                             </article>
                     </div>
-                    <p id="TXTmain">lorem kjnz oznc jpoo,p  opin in oin oin oin oin po hguif jv u ouho bu oug pij pôk,
-                    pmnjolphi oclnuzoirnez cizubnibf cozreun f"z'e fv"o' rg "fpezk fjo rgojj "orze f déihe rkdéo'ezkjfojzrn  
-                    o ojl odnf czjlr dosnon on oubiyvoulvo vo vouv ouvh</p>
+                    <p id="TXTmain">Je suis actuellement à la recherche d'une alternance en tant que développeur fullstack. Je trouve le web très intéressant, pleins de surprise et de challenge. Dans le futur, je souhaite poursuivre dans la cybersécurité.</p>
                 </div>
             </div>      
         </div>

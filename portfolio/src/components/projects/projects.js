@@ -10,14 +10,14 @@ export default function Projects() {
     return (
 
         <div id="Projects">
-            <p className="presentationComponent">I Work Rencently On</p>
+            <p className="presentationComponent">Projects that i recently worked on</p>
             <h2 id="titleProject">Projects</h2>
 
             <div id="mainProject">
 
                 <div className="projectContainer">
                     <img src={my_snap} className="imgProject" id="snap" alt="img of project"/>
-                    <p className="projectName">My_SnapChat App make with React.js</p>
+                    <p className="projectName">My_SnapChat App made with React.js</p>
                     <a href="https://github.com/nadir42400/My_snapchat-" className="buttonOfProject">Github</a>
                 </div>
 
@@ -29,7 +29,7 @@ export default function Projects() {
 
                 <div className="projectContainer">
                     <img src={my_twitter} className="imgProject" id="twitter" alt="img of project"/>
-                    <p className="projectName">My_Twitter is a group project PHP</p>
+                    <p className="projectName">My_Twitter is a group project written PHP</p>
                     <a href="https://github.com/nadir42400/My_twitter" className="buttonOfProject">Github</a>
                 </div>
             </div>
