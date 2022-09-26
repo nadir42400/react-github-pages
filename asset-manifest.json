@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/react-github-pages/static/css/main.24f0a554.css",
-    "main.js": "/react-github-pages/static/js/main.da40e09e.js",
+    "main.js": "/react-github-pages/static/js/main.82bcff38.js",
     "static/media/pictureOfMe.jpg": "/react-github-pages/static/media/pictureOfMe.5fcc0bf2aea893b5b4c3.jpg",
     "static/media/cvDevWeb.pdf": "/react-github-pages/static/media/cvDevWeb.aacb19122c52872594a7.pdf",
     "static/media/my_twitter.png": "/react-github-pages/static/media/my_twitter.03bc5142c77a8cd14602.png",
@@ -9,10 +9,10 @@
     "static/media/puissance4.png": "/react-github-pages/static/media/puissance4.f0fdd91ef98a46a72b7a.png",
     "index.html": "/react-github-pages/index.html",
     "main.24f0a554.css.map": "/react-github-pages/static/css/main.24f0a554.css.map",
-    "main.da40e09e.js.map": "/react-github-pages/static/js/main.da40e09e.js.map"
+    "main.82bcff38.js.map": "/react-github-pages/static/js/main.82bcff38.js.map"
   },
   "entrypoints": [
     "static/css/main.24f0a554.css",
-    "static/js/main.da40e09e.js"
+    "static/js/main.82bcff38.js"
   ]
 }
