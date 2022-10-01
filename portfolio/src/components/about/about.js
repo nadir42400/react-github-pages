@@ -46,13 +46,13 @@ export default function About() {
                         </article>
                     </div>
                     <p id="TXTmain">
-                        Je suis actuellement à la recherche d'une alternance en
-                        tant que développeur fullstack. Je trouve le web très
-                        intéressant, pleins de surprise et de challenge. Dans le
-                        futur, je souhaite poursuivre dans la cybersécurité bien
-                        que l'informatique m'intéresse dans sa globaliter et je
-                        compte bien tester d'autre dommaine dans le futur
-                        quelque (la robotique, IA, dev logiciel, ...).
+                        I am currently looking for an apprenticeship as a
+                        fullstack developer. I find the web very interesting,
+                        full of surprises and challenges. In the future, I want
+                        to continue in cybersecurity although I am interested in
+                        computing in its entirety and I intend to test other
+                        areas in the future (robotics, AI, software development,
+                        ...).
                     </p>
                 </div>
             </div>
