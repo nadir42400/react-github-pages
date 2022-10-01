@@ -21,6 +21,8 @@ export default function Contact() {
       };
 
     return (
+
+        // MAKE THE WRITING DISAPPEAR IN THE INPUTS !!!!!
         <div id="Contact">
             <div id="titleDiv">
                 <p>if you want contact me</p>
