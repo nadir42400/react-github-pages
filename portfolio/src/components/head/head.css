@@ -89,5 +89,6 @@ html{
 }
 
 #Picture {
-    height: 150px;
+    border-radius: 20px;
+    height: 350px;
 }

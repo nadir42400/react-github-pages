@@ -1,5 +1,5 @@
 import React from "react";
-import pictureOfMe from '../../asset/pictureOfMe.jpg';
+import pictureOfMe from '../../asset/pictureOfMe2.jpg';
 import linkedinLogo from '../../asset/logo-linkedin.png';
 import githubLogo from '../../asset/signe-github.png';
 import CV from '../../asset/cvDevWeb.pdf';
@@ -28,7 +28,7 @@ export default function Head () {
                     {/* faire le link vers le component contact */}
                     <a  href="#Contact" id='Talk' className="ButtonMain">Let's talk</a>
                 </div>
-        
+
                 <img src={pictureOfMe} alt="me" id="Picture"/>
             </div>
         </div>
