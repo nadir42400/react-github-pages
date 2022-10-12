@@ -1,18 +1,19 @@
 {
   "files": {
-    "main.css": "/react-github-pages/static/css/main.24f0a554.css",
-    "main.js": "/react-github-pages/static/js/main.97fafddf.js",
+    "main.css": "/react-github-pages/static/css/main.9a7565a1.css",
+    "main.js": "/react-github-pages/static/js/main.58f0ce31.js",
     "static/media/pictureOfMe.jpg": "/react-github-pages/static/media/pictureOfMe.5fcc0bf2aea893b5b4c3.jpg",
-    "static/media/cvDevWeb.pdf": "/react-github-pages/static/media/cvDevWeb.bc8b64e4f81ac984a477.pdf",
+    "static/media/cvDevWeb.pdf": "/react-github-pages/static/media/cvDevWeb.96ef870d5f53eb0d6133.pdf",
     "static/media/my_twitter.png": "/react-github-pages/static/media/my_twitter.03bc5142c77a8cd14602.png",
+    "static/media/pictureOfMe2.jpg": "/react-github-pages/static/media/pictureOfMe2.d3fcf98bd525669a93d0.jpg",
     "static/media/my_snap.jpg": "/react-github-pages/static/media/my_snap.95f0e19abac930f14720.jpg",
     "static/media/puissance4.png": "/react-github-pages/static/media/puissance4.f0fdd91ef98a46a72b7a.png",
     "index.html": "/react-github-pages/index.html",
-    "main.24f0a554.css.map": "/react-github-pages/static/css/main.24f0a554.css.map",
-    "main.97fafddf.js.map": "/react-github-pages/static/js/main.97fafddf.js.map"
+    "main.9a7565a1.css.map": "/react-github-pages/static/css/main.9a7565a1.css.map",
+    "main.58f0ce31.js.map": "/react-github-pages/static/js/main.58f0ce31.js.map"
   },
   "entrypoints": [
-    "static/css/main.24f0a554.css",
-    "static/js/main.97fafddf.js"
+    "static/css/main.9a7565a1.css",
+    "static/js/main.58f0ce31.js"
   ]
 }
