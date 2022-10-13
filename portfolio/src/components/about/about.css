@@ -55,7 +55,7 @@
     transform: scale(1.1) rotate(10deg);
 }
 
-#test {
+#blackBG {
     border-radius: 20px;
     background: #000;
 }

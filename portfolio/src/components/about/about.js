@@ -11,7 +11,7 @@ export default function About() {
             <h2 id="h2About">About Me</h2>
 
             <div id="mainAbout">
-                <div id="test">
+                <div id="blackBG">
                     <img src={pictureOfMe} alt="me" id="ImgMe"/>
                 </div>
 
